@@ -4,7 +4,7 @@
   "description": "OpenCV for JS Face detection",
   "license": "MIT",
   "author": "Nikhil Kabbin <nikhil.kabbin@gmail.com>",
-  "main": "index.js",
+  "main": "opencv.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:nikhilkabbin/opencvjs.git"
