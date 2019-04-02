@@ -1,6 +1,6 @@
 {
   "name": "opencvjs",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "OpenCV for JS Face detection",
   "license": "MIT",
   "author": "Nikhil Kabbin <nikhil.kabbin@gmail.com>",
